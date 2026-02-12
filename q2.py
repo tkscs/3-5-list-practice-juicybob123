@@ -15,6 +15,5 @@ The Management
 *******************************************************
 
 """
-
 for cat in cats:
-  print(f"Dear {cat}," + form_letter)
+    print(f"to cat {cat} {form_letter}")
